@@ -1,0 +1,1 @@
+module.exports = require('zce-gulp-pages')
